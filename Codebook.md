@@ -1,6 +1,6 @@
 This code book describes the variables used in this project <br>
-**Txt files:<br>
-*features.txt: Names of the 561 features.<br>
+# Txt files:<br>
+* features.txt: Names of the 561 features.<br>
 *activity_labels.txt: Names and IDs for each of the 6 activities.<br>
 *X_train.txt: 7352 obs. of the 561 variables <br>
 *X_test.txt: 2947 observations of the 561 variables<br>
